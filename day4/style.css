@@ -1,0 +1,24 @@
+/* Id selector(#) */
+#one {
+    color :red;
+}
+
+#two {
+    color :aqua
+}
+/* class selector */
+.ai {
+    color:blue
+}
+.ml {
+    color:brown
+}
+#meenakshi {
+    color:chartreuse
+}
+.cse {
+    color:crimson
+}
+#something {
+    color:darkorange
+}
